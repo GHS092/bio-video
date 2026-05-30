@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@media print {
+  body {
+    background: white;
+  }
+  header, button, .border-dashed {
+    display: none !important;
+  }
+  #report-content {
+    box-shadow: none !important;
+    border: none !important;
+  }
+}
+

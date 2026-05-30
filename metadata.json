@@ -1,0 +1,10 @@
+{
+  "name": "Ultrasound AI Clinical Companion 4",
+  "description": "An intuitive, medical-grade assistant that analyzes ultrasound video scans to detect potential abnormalities, generate clinical reports, and provide expert second opinions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
